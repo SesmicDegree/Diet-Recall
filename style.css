@@ -13,6 +13,7 @@ body
     font-family: sans-serif;
 
 }
+
 .menu-bar
 {
     background-color: black;
@@ -83,3 +84,26 @@ body
 
 
 }
+.hello
+{
+    position: fixed;
+    height: 75px;
+    left: 0px;
+    width: 75px;
+}
+.banner h1
+{
+    position:absolute;
+    top: 30%;
+    left: 3%;
+    font-size: 40px;
+}
+.banner p
+{
+    position: absolute;
+    top: 40%;
+    left: 3%;
+    font-size: 16px;
+    width: 35%;
+}
+
